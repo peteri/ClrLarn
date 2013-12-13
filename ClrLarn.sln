@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClrLarn", "ClrLarn\ClrLarn.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Larn", "Larn\Larn.csproj", "{D1A8C728-60EB-4930-91FA-C92B1FBF7AB0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfLarn", "WpfLarn\WpfLarn.csproj", "{8BC00AF0-A5FA-4DCF-AD84-B033BAC52A88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{D1A8C728-60EB-4930-91FA-C92B1FBF7AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1A8C728-60EB-4930-91FA-C92B1FBF7AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1A8C728-60EB-4930-91FA-C92B1FBF7AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BC00AF0-A5FA-4DCF-AD84-B033BAC52A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC00AF0-A5FA-4DCF-AD84-B033BAC52A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BC00AF0-A5FA-4DCF-AD84-B033BAC52A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BC00AF0-A5FA-4DCF-AD84-B033BAC52A88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
